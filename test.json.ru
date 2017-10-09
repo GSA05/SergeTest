@@ -1,7 +1,7 @@
 ﻿{
-   "dfdsfdsf" : "ноль 0",
+   "dfdsfdsf" : "ноль",
    "fhdskjfdhaskjf" : "истина",
-   "new" : "new",
+   "new" : "новый",
    "test1" : "тест",
    "test2" : "слово",
    "test3" : "предложение"
