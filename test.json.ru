@@ -1,5 +1,5 @@
 ﻿{
-   "dfdsfdsf" : "ноль",
+   "dfdsfdsf" : "ноль 0",
    "fhdskjfdhaskjf" : "истина",
    "new" : "новый",
    "test1" : "тест",
