@@ -1,6 +1,6 @@
 ﻿{
-   "cat" : "cat",
-   "val1" : "tomato",
-   "val2" : "onion",
-   "val3" : "dog"
+   "cat" : "",
+   "val1" : "",
+   "val2" : "",
+   "val3" : ""
 }
